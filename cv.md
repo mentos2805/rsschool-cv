@@ -77,3 +77,9 @@ I solved tasks on an online platform such as:
 * [codecademy.com](https://codecademy.com)
 * [pythontutor.ru](http://pythontutor.ru)
 * [learn.javascript.ru](https://learn.javascript.ru)
+
+## English level
+
+A2 (Elementary English).
+
+I always improve my English at [www.duolingo.com](https://www.duolingo.com) and watching simple films.
