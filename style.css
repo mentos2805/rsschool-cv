@@ -63,3 +63,21 @@ a:hover {
 span {
     font-weight: bold;
 }
+
+
+.footer {
+    text-align: center;
+}
+
+.footer p {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+
+.RS_School span:nth-child(1) {color:green; font-size: 25px}
+.RS_School span:nth-child(2) {color:pink; font-size: 25px}
+.RS_School span:nth-child(3) {color:red; font-size: 25px}
+
+
+
