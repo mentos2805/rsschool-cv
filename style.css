@@ -1,0 +1,65 @@
+.h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: #33CCCC;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+
+   
+}
+
+.header_info h1 {
+    font-size: 45px;
+}
+
+.header .header_img  {
+    border: 4px solid white;
+
+}
+
+h2 {
+    padding-bottom: 25px;  
+}
+
+.title {
+    font-size: 25px;
+    padding-left: 15px;
+}
+
+.main_content h2 {
+    margin-top: 15px;
+}
+
+.title p {
+    text-indent: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    font-size: 26px;
+    transition-duration: 0.5s;
+}
+
+span {
+    font-weight: bold;
+}
