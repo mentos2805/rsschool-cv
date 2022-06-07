@@ -1,83 +1,89 @@
-.h1, h2, h3, h4, h5, h6 {
-    margin: 0;
+.h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
 }
 
 p {
-    margin: 0;
+  margin: 0;
 }
 
 ul {
-    margin: 0;
+  margin: 0;
 }
 
 .container {
-    width: 1024px;
-    margin: 0 auto;
-    background-color: #33CCCC;
+  width: 1024px;
+  margin: 0 auto;
+  background-color: #33cccc;
 }
 
 .header {
-    display: flex;
-    justify-content: space-around;
-    padding: 30px;
-
-   
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
 }
 
 .header_info h1 {
-    font-size: 45px;
+  font-size: 45px;
 }
 
-.header .header_img  {
-    border: 4px solid white;
-
+.header .header_img {
+  border: 4px solid white;
 }
 
 h2 {
-    padding-bottom: 25px;  
+  padding-bottom: 25px;
 }
 
 .title {
-    font-size: 25px;
-    padding-left: 15px;
+  font-size: 25px;
+  padding-left: 15px;
 }
 
 .main_content h2 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
 .title p {
-    text-indent: 20px;
+  text-indent: 20px;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    color: yellow;
-    font-size: 26px;
-    transition-duration: 0.5s;
+  color: yellow;
+  font-size: 26px;
+  transition-duration: 0.5s;
 }
 
 span {
-    font-weight: bold;
+  font-weight: bold;
 }
 
-
 .footer {
-    text-align: center;
+  text-align: center;
 }
 
 .footer p {
-    margin-top: 15px;
-    font-size: 18px;
+  margin-top: 15px;
+  font-size: 18px;
 }
 
-
-.RS_School span:nth-child(1) {color:green; font-size: 25px}
-.RS_School span:nth-child(2) {color:pink; font-size: 25px}
-.RS_School span:nth-child(3) {color:red; font-size: 25px}
-
-
-
+.RS_School span:nth-child(1) {
+  color: green;
+  font-size: 25px;
+}
+.RS_School span:nth-child(2) {
+  color: pink;
+  font-size: 25px;
+}
+.RS_School span:nth-child(3) {
+  color: red;
+  font-size: 25px;
+}
