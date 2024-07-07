@@ -71,4 +71,30 @@ body {
     border-radius: 10px;
   }
 
+  .footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .wrapper-footer {
+    display: flex;
+  }
+
+  .logo-rss {
+    width: 30%;
+    border-radius: 5%;
+  }
+
+  .github-name {
+    padding-left: 45px;
+  }
+
+  header {
+    background-color: yellow;
+  }
+
+  footer {
+    background-color: yellow;
+  }
 
