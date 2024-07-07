@@ -1,3 +1,7 @@
+html {
+    behavior: s;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #310062;
@@ -84,6 +88,7 @@ body {
   .logo-rss {
     width: 30%;
     border-radius: 5%;
+    padding-top: 7px;
   }
 
   .github-name {
@@ -96,5 +101,9 @@ body {
 
   footer {
     background-color: yellow;
+  }
+
+  section {
+    padding-left: 75px;
   }
 
